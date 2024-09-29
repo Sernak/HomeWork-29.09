@@ -11,7 +11,7 @@ function App() {
       {/*<HW2 />*/}
       {/*<HW3 />*/}
       {/*<HW4 />*/}
-      <p>Sergey privet/</p>
+      <p>Sergey privet11/</p>
     </div>
   );
 }
